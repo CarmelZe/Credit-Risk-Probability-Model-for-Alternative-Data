@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Desktop/10 Academy - KAIM/Week-5/Credit-Risk-Probability-Model-for-Alternative-Data/mlruns/395272067892063142/25349585d4374608a170ac31c46ba167/artifacts
+end_time: 1751274448622
+entry_point_name: ''
+experiment_id: '395272067892063142'
+lifecycle_stage: active
+run_id: 25349585d4374608a170ac31c46ba167
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751274448370
+status: 4
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/Desktop/10 Academy - KAIM/Week-5/Credit-Risk-Probability-Model-for-Alternative-Data/mlruns/395272067892063142/74106b739bd5469092a15fcc538382bc/artifacts
+end_time: 1751275100187
+entry_point_name: ''
+experiment_id: '395272067892063142'
+lifecycle_stage: active
+run_id: 74106b739bd5469092a15fcc538382bc
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751275056911
+status: 3
+tags: []
+user_id: HP
