@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/Desktop/10 Academy - KAIM/Week-5/Credit-Risk-Probability-Model-for-Alternative-Data/mlruns/395272067892063142/models/m-78ac23068dbf4161b1bacbe3f1d2a502/artifacts
+creation_timestamp: 1751275204400
+experiment_id: '395272067892063142'
+last_updated_timestamp: 1751275208960
+model_id: m-78ac23068dbf4161b1bacbe3f1d2a502
+model_type: null
+name: best_model
+source_run_id: cb548c027ab44c3ba684e5e2795efe69
+status: 2
+status_message: null

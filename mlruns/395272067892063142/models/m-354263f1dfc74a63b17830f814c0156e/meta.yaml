@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/Desktop/10 Academy - KAIM/Week-5/Credit-Risk-Probability-Model-for-Alternative-Data/mlruns/395272067892063142/models/m-354263f1dfc74a63b17830f814c0156e/artifacts
+creation_timestamp: 1751275190598
+experiment_id: '395272067892063142'
+last_updated_timestamp: 1751275195279
+model_id: m-354263f1dfc74a63b17830f814c0156e
+model_type: null
+name: Gradient Boosting
+source_run_id: be831c7b13414b97abe7d1d5f505b109
+status: 2
+status_message: null

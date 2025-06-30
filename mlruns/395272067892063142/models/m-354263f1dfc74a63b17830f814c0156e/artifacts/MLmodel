@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/HP/Desktop/10 Academy - KAIM/Week-5/Credit-Risk-Probability-Model-for-Alternative-Data/mlruns/395272067892063142/models/m-354263f1dfc74a63b17830f814c0156e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-354263f1dfc74a63b17830f814c0156e
+model_size_bytes: 79851
+model_uuid: m-354263f1dfc74a63b17830f814c0156e
+prompts: null
+run_id: be831c7b13414b97abe7d1d5f505b109
+utc_time_created: '2025-06-30 09:19:50.645681'

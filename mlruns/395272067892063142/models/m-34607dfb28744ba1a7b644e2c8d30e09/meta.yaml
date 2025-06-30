@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/Desktop/10 Academy - KAIM/Week-5/Credit-Risk-Probability-Model-for-Alternative-Data/mlruns/395272067892063142/models/m-34607dfb28744ba1a7b644e2c8d30e09/artifacts
+creation_timestamp: 1751275094279
+experiment_id: '395272067892063142'
+last_updated_timestamp: 1751275100179
+model_id: m-34607dfb28744ba1a7b644e2c8d30e09
+model_type: null
+name: Random Forest
+source_run_id: 74106b739bd5469092a15fcc538382bc
+status: 2
+status_message: null

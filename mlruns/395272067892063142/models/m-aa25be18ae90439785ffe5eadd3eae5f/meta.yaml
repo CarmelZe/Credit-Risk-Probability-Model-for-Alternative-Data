@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/Desktop/10 Academy - KAIM/Week-5/Credit-Risk-Probability-Model-for-Alternative-Data/mlruns/395272067892063142/models/m-aa25be18ae90439785ffe5eadd3eae5f/artifacts
+creation_timestamp: 1751275199488
+experiment_id: '395272067892063142'
+last_updated_timestamp: 1751275204070
+model_id: m-aa25be18ae90439785ffe5eadd3eae5f
+model_type: null
+name: Logistic Regression
+source_run_id: b59fa577f7cb4b99b1761cabfca63f3e
+status: 2
+status_message: null
